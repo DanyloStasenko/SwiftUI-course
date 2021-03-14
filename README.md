@@ -7,3 +7,7 @@ Show/Hide Console: Shift + Command + Y
 (Buttons on top has same functionality)
 Show/Hide Navigator: Command + 0
 Show/Hide Inspector: Command + Option + 0
+
+Move selected lines of code to the top/bottom: 
+Command + Option + {
+Command + Option + }
